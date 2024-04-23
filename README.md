@@ -1,2 +1,2 @@
 # HR-ANALYTICS-DASHBOARD
-These project shows the reasons about why employees resign the job.
+![Screenshot 2024-04-24 001918](https://github.com/prasad4141/HR-ANALYTICS-DASHBOARD/assets/167748995/e85340ab-28f7-45b3-93a3-f5d370f299c9)
